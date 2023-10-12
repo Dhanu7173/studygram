@@ -811,43 +811,6 @@
                 </div>
                 
               </div>
-              <div class="tw-flex tw-gap-px">
-                <div class="tw-grid tw-gap-px tw-grid-cols-3">
-                  <div class="tw-relative tw-text-white tw-text-lg">
-                    <img
-                      src="https://picsum.photos/id/61/200/200"
-                      alt="explore post image"
-                      class="tw-object-cover tw-h-full tw-w-full"
-                    /><svg
-                      preserveAspectRatio="xMidYMid meet"
-                      viewBox="0 0 24 24"
-                      width="1.2em"
-                      height="1.2em"
-                      class="tw-absolute drop-shadow-md tw-top-2 tw-right-2"
-                    >
-                      <path
-                        fill="currentColor"
-                        d="M8 5.14v14l11-7l-11-7Z"
-                      ></path></svg
-                    >
-                  </div>
-                  <div class="tw-relative tw-text-white tw-text-lg">
-                    <img
-                      src="https://picsum.photos/id/62/200/200"
-                      alt="explore post image"
-                      class="tw-object-cover tw-h-full tw-w-full"
-                    />
-                  </div>
-                  <div class="tw-relative tw-text-white tw-text-lg">
-                    <img
-                      src="https://picsum.photos/id/63/200/200"
-                      alt="explore post image"
-                      class="tw-object-cover tw-h-full tw-w-full"
-                    />
-                  </div>
-                </div>
-                
-              </div>
             </div>
           </q-tab-panel>
         </q-tab-panels>
